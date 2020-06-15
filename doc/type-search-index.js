@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"Actor","h":"","u":""},{"l":"Appli","h":"","u":""},{"l":"Channel","h":"","u":""},{"l":"Pane","h":"","u":""},{"l":"Programme","h":"","u":""},{"l":"StaxChannel","h":"","u":""},{"l":"StaxProgramme","h":"","u":""}]
